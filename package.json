@@ -1,0 +1,14 @@
+{
+  "name": "car-rental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set ELECTRON_DISABLE_SECURITY_WARNINGS=true && electron ."
+  },
+  "author": "AkhmadRizki",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.1"
+  }
+}
