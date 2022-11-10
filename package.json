@@ -9,7 +9,7 @@
   "author": "AkhmadRizki",
   "license": "ISC",
   "dependencies": {
-    "electron": "^8.2.1",
+    "electron": "^18.3.7",
     "uuid": "^7.0.3"
   }
 }
